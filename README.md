@@ -6,3 +6,6 @@ Aby uruchomić program, wystarczy kliknąć "lupkę" wyszukiwania na pasku Windo
 
 # Zgłaszanie błędów
 Gdyby wystąpiły błędy z programem, proszę mi je zgłaszać w zakładce "Issues" i opisywać dokładnie w jakich okolicznościach to się stało i co wtedy było robione. Prosze również o postaranie się załączać zrzuty ekranu błędu do zgłoszenia, żebym mógł łatwiej zlokalizować usterkę.
+
+# Zgłaszanie propozycji na update
+Jeśli masz jakiś pomysł, co można ulepszyć w moim programie, nie bój się napisać o tym. Z chęcią przyjmę każdą propozycję na pszyszłe update'y programu i je dodam, a żebyś nie był*a stratny/stratna, uwzględnię Cię w programie jako pomysłodawcę/pomysłodawczynię. Liczą się każde pomysły :D
